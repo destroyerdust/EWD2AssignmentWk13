@@ -126,16 +126,11 @@ label {
   white-space: nowrap;
   overflow: hidden;
 }
-.social-dribbble a, .social-facebook a, .social-twitter a {
+.sprite {
   background-image: url('../images/spritesheet.png');
   background-repeat: no-repeat;
+  display: block;
 }
-/*
-.sprite {
-    background-image: url('../images/spritesheet.png');
-    background-repeat: no-repeat;
-    display: block;
-}*/
 
 .social-facebook {
   width: 48px;
