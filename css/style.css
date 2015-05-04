@@ -140,17 +140,17 @@ label {
 .social-facebook {
   width: 48px;
   height: 48px;
-  background-position: -5 -5px;
+  background-position: -5px -5px;
 }
 .social-dribbble {
   width: 48px;
   height: 48px;
-  background-position: -5 -63px;
+  background-position: -5px -63px;
 }
 .social-twitter {
   width: 48px;
   height: 48px;
-  background-position: -5 -121px;
+  background-position: -5px -121px;
 }
 .contact {
   float: right:
